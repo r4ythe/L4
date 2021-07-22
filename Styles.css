@@ -1,0 +1,20 @@
+body {
+  background-color:#000000;
+}
+header {
+  padding:100px;
+  }
+a:link {
+  color:#FFCCE5;
+  text-decoration:none;
+  }
+a:visited {
+  color:#FFCCE5;
+  text-decoration:none;
+  }
+.L {
+  font-size:300%;
+  color: aliceblue;
+  text-align:center;
+  padding:20px;
+  }
