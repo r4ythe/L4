@@ -6,7 +6,13 @@ header {
   text-align:center;
   font-size:400%;
   font-color:hsl(0,0%,10%);
-  }
+}
+nav {
+  text-align:center;
+  font-size:200%;
+  font-color:hsl(0,0%,100%);
+  background-color:hsl(0,0%,0%);
+}
 a:link {
   color:#FFCCE5;
   text-decoration:none;
