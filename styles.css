@@ -21,7 +21,7 @@ a:link {
   text-decoration:none;
   }
 a:visited {
-  hsl(200,0%,90%);
+  color:hsl(200,0%,90%);
   text-decoration:none;
   }
 .L {
