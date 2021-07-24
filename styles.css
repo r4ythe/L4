@@ -14,7 +14,7 @@ a:visited {
   }
 .L {
   font-size:300%;
-  color:dimgray;
+  color:hsl(197,0%,50%);
   text-align:center;
   padding:30px;
   }
