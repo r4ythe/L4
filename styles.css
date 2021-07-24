@@ -12,6 +12,7 @@ nav {
   font-size:200%;
   font-color:hsl(0,1%,100%);
   background-color:hsl(0,0%,0%);
+  padding:0px;
 }
 a:link {
   color:#FFCCE5;
