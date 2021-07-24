@@ -1,5 +1,5 @@
 body {
-  background-color:steelblue;
+  background-color:pink;
 }
 header {
   padding:40px;
@@ -9,7 +9,7 @@ header {
 nav {
   text-align:center;
   font-size:200%;
-  background-color:lightsteelblue;
+  background-color:plum;
   padding:20px;
 }
 a:link {
