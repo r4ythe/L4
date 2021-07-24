@@ -1,5 +1,5 @@
 body {
-  background-color:#000000;
+  background-color:aliceblue;
 }
 header {
   padding:100px;
@@ -14,7 +14,7 @@ a:visited {
   }
 .L {
   font-size:300%;
-  color: aliceblue;
+  color:dimgray;
   text-align:center;
   padding:30px;
   }
