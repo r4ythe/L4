@@ -2,7 +2,7 @@ body {
   background-color:hsl(197,100%,87%);
 }
 header {
-  padding:20px;
+  padding:40px;
   text-align:center;
   font-size:400%;
   font-color:hsl(0,0%,10%);
@@ -19,5 +19,5 @@ a:visited {
   font-size:300%;
   color:hsl(197,0%,20%);
   text-align:center;
-  padding:30px;
+  padding:20px;
   }
