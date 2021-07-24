@@ -15,16 +15,8 @@ nav {
   background-color:lemonchiffon;
 }
 a:link {
-  color:dimgray;
   text-decoration:none;
   }
 a:visited {
-  color:dimgray;
   text-decoration:none;
-  }
-.L {
-  font-size:300%;
-  color:hsl(197,0%,20%);
-  text-align:center;
-  padding:20px;
   }
