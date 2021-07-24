@@ -1,5 +1,8 @@
 body {
   background-color:hsl(197,100%,87%);
+  font-size:100%;
+  color:hsl(197,0%,20%);
+  padding:20px;
 }
 header {
   padding:40px;
