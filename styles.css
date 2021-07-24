@@ -1,5 +1,5 @@
 body {
-  background-color:hsl(197,100%,87%);
+  background-color:ivory;
   font-size:100%;
   color:hsl(197,0%,20%);
   padding:20px;
@@ -14,7 +14,7 @@ nav {
   text-align:center;
   font-size:200%;
   font-color:dimgrey;
-  background-color:hsl(200,100%,70%);
+  background-color:azure;
 }
 a:link {
   color:dimgray;
