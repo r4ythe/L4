@@ -13,8 +13,8 @@ header {
 nav {
   text-align:center;
   font-size:200%;
-  font-color:hsl(0,0%,90%);
-  background-color:hsl(185,100%,90%);
+  font-color:hsl(200,0%,90%);
+  background-color:hsl(200,100%,70%);
 }
 a:link {
   color:#FFCCE5;
