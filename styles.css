@@ -1,7 +1,6 @@
 body {
   background-color:ivory;
   font-size:100%;
-  color:hsl(197,0%,20%);
   padding:20px;
 }
 header {
@@ -13,8 +12,7 @@ header {
 nav {
   text-align:center;
   font-size:200%;
-  font-color:dimgrey;
-  background-color:azure;
+  background-color:lemonchiffon;
 }
 a:link {
   color:dimgray;
