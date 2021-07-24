@@ -5,7 +5,7 @@ header {
   padding:40px;
   text-align:center;
   font-size:400%;
-  font-color:hsl(0,0%,10%);
+  font-color:hsl(0,0%,25%);
 }
 nav {
   text-align:center;
@@ -13,6 +13,7 @@ nav {
   font-color:hsl(0,1%,100%);
   background-color:hsl(0,0%,0%);
   padding:0px;
+  border:none;
 }
 a:link {
   color:#FFCCE5;
