@@ -17,9 +17,11 @@ nav {
   background-color:hsl(200,100%,70%);
 }
 a:link {
+  color:hsl(200,0%,90%);
   text-decoration:none;
   }
 a:visited {
+  hsl(200,0%,90%);
   text-decoration:none;
   }
 .L {
