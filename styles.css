@@ -1,5 +1,5 @@
 body {
-  background-color:olivedrab;
+  background-color:lightcyan;
 }
 header {
   padding:40px;
@@ -9,7 +9,7 @@ header {
 nav {
   text-align:center;
   font-size:200%;
-  background-color:olive;
+  background-color:lightgrey;
   padding:20px;
   outline-style:none;
 }
