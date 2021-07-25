@@ -11,7 +11,7 @@ nav {
   font-size:200%;
   background-color:olive;
   padding:20px;
-  outline:none;
+  outline-style:none;
 }
 a:link {
   font-color:black;
