@@ -6,6 +6,9 @@ header {
   text-align:center;
   font-size:400%;
   background-color:lightgrey;
+  padding:0px;
+  margin:0px;
+  outline:none;
 }
 nav {
   text-align:center;
