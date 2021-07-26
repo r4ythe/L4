@@ -25,3 +25,7 @@ a:hover {
   color:white;
   background:black;
 }
+a:active {
+  color:white;
+  background:black;
+}
