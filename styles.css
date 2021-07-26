@@ -28,3 +28,6 @@ nav a:active {
   color:white;
   background:black;
 }
+table {
+  width:100%;
+}
