@@ -5,11 +5,11 @@ header {
   padding:40px;
   text-align:center;
   font-size:400%;
+  background-color:lightgrey;
 }
 nav {
   text-align:center;
   font-size:300%;
-  background-color:lightgrey;
   outline-style:none;
 }
 nav a:link {
