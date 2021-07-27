@@ -13,10 +13,11 @@ header {
   outline:none;
   overflow:hidden;
 }
-nav {
+nav a {
   text-align:center;
   font-size:300%;
   outline-style:none;
+  margin:20px;
 }
 nav a:link {
   color:black;
