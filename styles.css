@@ -9,6 +9,7 @@ header {
   padding:0px;
   margin:0px;
   outline:none;
+  overflow:hidden;
 }
 nav {
   text-align:center;
