@@ -11,7 +11,7 @@ header {
   outline:none;
   overflow:hidden;
 }
-nav a {
+nav {
   text-align:center;
   font-size:300%;
   outline-style:none;
