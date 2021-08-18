@@ -12,6 +12,10 @@ header {
   outline:none;
   overflow:hidden;
 }
+header a:link {
+  color:black;
+  text-decoration:none;
+}
 nav {
   text-align:center;
   font-size:300%;
